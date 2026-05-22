@@ -1,0 +1,5 @@
+[Added Associations]
+application/zip=7z.desktop;
+
+[Default Applications]
+application/zip=7z.desktop;

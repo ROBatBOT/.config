@@ -1,0 +1,3 @@
+{"timestamp":108100780,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","require_stateful_bounces":"false","bounce_time":"1779308731","glean_timestamp":"1779314991781","is_dry_run":"true","site_host":"alttmdsdujxrfnakrkyi.supabase.co"},"execution_counter":1}
+{"timestamp":140506105,"category":"bounce.tracking.protection","name":"purge_action","extra":{"success":"true","require_stateful_bounces":"false","bounce_time":"1779341156","glean_timestamp":"1779347397106","site_host":"discordcod.com","is_dry_run":"true"},"execution_counter":1}
+{"timestamp":13638184,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-22T13:21+02:00","glean_timestamp":"1779448871175"},"execution_counter":2}

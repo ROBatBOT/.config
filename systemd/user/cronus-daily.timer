@@ -1,0 +1,11 @@
+[Unit]
+Description=Cronus PV-Forschung - Täglich um 04:00 Uhr
+After=network.target
+
+[Timer]
+OnBootSec=5min
+Unit=cronus-daily.service
+Persistent=true
+
+[Install]
+WantedBy=timers.target

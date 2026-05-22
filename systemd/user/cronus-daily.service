@@ -1,0 +1,7 @@
+[Unit]
+Description=Cronus-Daily
+[Service]
+Type=oneshot
+ExecStart=/home/robert/scripts/cronus-daily.sh
+StandardOutput=journal
+StandardError=journal
